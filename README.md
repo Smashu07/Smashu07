@@ -8,7 +8,7 @@ Selamat datang ke profil GitHub saya! Saya sedang belajar dalam bidang pembangun
 - 🎓 Sedang belajar dan meneroka dunia pemrograman
 - 🌱 Saya sedang fokus mempelajari **Git, GitHub, dan Web Development**
 - 💬 Tanya saya tentang: **HTML, CSS, atau asas pengaturcaraan**
-- 📫 Cara hubungi saya: **aqilah@example.com**
+- 📫 Cara hubungi saya: **aqilahnajihah@graduate.utm.com**
 
 ---
 
