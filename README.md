@@ -3,7 +3,7 @@
 <!-- Profile Picture -->
 <img src="AQILAHPFP.jpeg" alt="Aqilah Najihah" style="width: 150px; height: 170px; object-fit: cover; border-radius: 50%; border: 3px solid #007acc;" />
 
-# Hi there, I'm Aqilah Najihah 👋
+# Halooo, I'm Aqilah Najihah 👋
 
 🚀 **1st Year Data Engineering Student @ Universiti Teknologi Malaysia (UTM)** 🎓
 
