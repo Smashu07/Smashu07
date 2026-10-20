@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, saya Aqilah Najihah 👋
 
-<!--
-**Smashu07/Smashu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang ke profil GitHub saya! Saya sedang belajar dalam bidang pembangunan perisian dan teknologi.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Mengenai Saya
+- 🎓 Sedang belajar dan meneroka dunia pemrograman
+- 🌱 Saya sedang fokus mempelajari **Git, GitHub, dan Web Development**
+- 💬 Tanya saya tentang: **HTML, CSS, atau asas pengaturcaraan**
+- 📫 Cara hubungi saya: **aqilah@example.com**
+
+---
+
+## 🛠️ Kemahiran & Alat (Skills & Tools)
+- **Bahasa**: HTML, CSS, JavaScript (sedang belajar)
+- **Alat**: Git, GitHub, VS Code
+
+---
+
+## 📊 Statistik GitHub Saya
+![Statistik GitHub Aqilah](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radial)
+
+---
+
+💡 *"Belajar setiap hari, walau hanya satu baris kod!"*
