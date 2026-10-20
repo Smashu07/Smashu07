@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Profile Picture -->
-<img src="AQILAHPFP.jpeg" alt="Aqilah Najihah" style="width: 155px; height: 180px; object-fit: cover; border-radius: 50%; border: 3px solid #007acc;" />
+<img src="AQILAHPFP.jpeg" alt="Aqilah Najihah" style="width: 130px; height: 180px; object-fit: cover; border-radius: 50%; border: 3px solid #007acc;" />
 
 # Halooo, I'm Aqilah Najihah 👋
 
