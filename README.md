@@ -3,7 +3,7 @@
 <!-- Foto Profil -->
 <img src="AQILAHPFP.jpeg" alt="AQILAH NAJIHAH" width="150" height="170" style="border-radius: 50%;" />
 
-# Hi, saya Aqilah Najihah 👋
+# Haloo, saya Aqilah Najihah 👋
 
 **Pelajar Tahun Pertama Data Engineering @ Universiti Teknologi Malaysia (UTM)** 🎓
 
