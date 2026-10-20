@@ -5,7 +5,7 @@
 
 # Haloo, saya Aqilah Najihah 👋
 
-**Pelajar Tahun Pertama Data Engineering @ Universiti Teknologi Malaysia (UTM)** 🎓
+**First Year Student Data Engineering @ Universiti Teknologi Malaysia (UTM)** 🎓
 
 </div>
 
