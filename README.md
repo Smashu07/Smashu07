@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Foto Profil -->
-<img src="profile.jpeg" alt="AQILAHPFP" width="150" height="150" style="border-radius: 50%;" />
+<img src="AQILAHPFP.jpeg" alt="AQILAH NAJIHAH" width="150" height="150" style="border-radius: 50%;" />
 
 # Hi, saya Aqilah Najihah 👋
 
